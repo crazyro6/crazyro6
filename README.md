@@ -53,6 +53,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/crazyro6/crazyro6/pacman-output/bomberman-contribution-graph.svg">
 </picture>
 
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=crazyro6&theme=neon&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=crazyro6&theme=neon" alt="GitHub Stats" /></picture>
+</p>
 ###
 
 <div align="center">
