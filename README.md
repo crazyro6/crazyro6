@@ -19,7 +19,7 @@ Estudio el ciclo superior de **DAM** (Desarrollo de Aplicaciones Multiplataforma
 
 | Proyecto | Qué es | Tecnologías |
 | --- | --- | --- |
-| [**YTubic**](https://github.com/crazyro6/YTubic) | Cliente de escritorio rápido para YouTube Music: letras sincronizadas, reproductor flotante, caché agresiva y autoactualización. Tiene su propia comunidad en Discord. | Tauri 2 · React · TypeScript |
+| [**YTubic**](https://github.com/crazyro6/YTubic) | Mi fork de [NUber-dev/YTubic](https://github.com/NUber-dev/YTubic). Cliente de escritorio rápido para YouTube Music: letras sincronizadas, reproductor flotante, caché agresiva y autoactualización. Tiene su propia comunidad en Discord. | Tauri 2 · React · TypeScript |
 | [**Rocket League Live Dashboard**](https://github.com/crazyro6/Rocket-League-Live-Dashboard) | Panel en vivo para Rocket League: marcador, MMR, historial de sesión y feed de eventos, leyendo la Stats API del juego. Se instala como PWA. | Node.js · JavaScript |
 | [**Frontend Feeder FR24**](https://github.com/crazyro6/Fronted-Feeder-FR24) | Interfaz moderna para un receptor ADS-B casero (Raspberry Pi + SDR) con fotos y datos de cada avión en tiempo real. | React (Vite) · CSS |
 | [**roypara.com**](https://github.com/crazyro6/roypara.com) | Mi portfolio, bilingüe (ES/EN) y con tema claro/oscuro. | Astro · CSS |
