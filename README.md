@@ -66,37 +66,38 @@
 
 ![fox streak](https://coolreadme.xyz/api/fox-card?user=crazyro6)
 
-##prueba
+
+
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=cscorza&theme=neon&mode=light" /><img src="https://www.gitskins.com/api/section/hero?username=cscorza&theme=neon" alt="CScorza profile hero" /></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=crazyro6&theme=neon&mode=light" /><img src="https://www.gitskins.com/api/section/hero?username=crazyro6&theme=neon" alt="crazyro6 profile hero" /></picture>
 </p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=cscorza&theme=neon&mode=light" /><img src="https://www.gitskins.com/api/section/about?username=cscorza&theme=neon" alt="About CScorza" /></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=crazyro6&theme=neon&mode=light" /><img src="https://www.gitskins.com/api/section/about?username=crazyro6&theme=neon" alt="About crazyro6" /></picture>
 </p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=cscorza&theme=neon&mode=light" /><img src="https://www.gitskins.com/api/section/stack?username=cscorza&theme=neon" alt="Language stack" /></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=crazyro6&theme=neon&mode=light" /><img src="https://www.gitskins.com/api/section/stack?username=crazyro6&theme=neon" alt="Language stack" /></picture>
 </p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=cscorza&theme=neon&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=cscorza&theme=neon" alt="GitHub Stats" /></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=crazyro6&theme=neon&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=crazyro6&theme=neon" alt="GitHub Stats" /></picture>
 </p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=cscorza&theme=neon&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=cscorza&theme=neon" alt="cscorza featured projects" /></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=crazyro6&theme=neon&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=crazyro6&theme=neon" alt="crazyro6 featured projects" /></picture>
 </p>
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=cscorza&theme=neon&website=cscorza.github.io%2FCScorza%2F&x=CScorzaOSINT&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=cscorza&theme=neon&website=cscorza.github.io%2FCScorza%2F&x=CScorzaOSINT" alt="cscorza social links" /></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=crazyr6&theme=neon&website=crazyro6.github.io%2Fcrazyro6%2F&x=crazyro6OSINT&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=crazyro6&theme=neon&website=crazyro6.github.io%2Fcrazyro6%2F&x=crazyro6OSINT" alt="crazyro6 social links" /></picture>
 </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cscorza) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CScorzaOSINT) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](cscorza.github.io/CScorza/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crazyro6) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/crazyro6OSINT) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](crazyro6.github.io/crazyro6/)
 
 ---
 
