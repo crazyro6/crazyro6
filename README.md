@@ -51,14 +51,9 @@
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=crazyro6&theme=neon&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=crazyro6&theme=neon" alt="crazyro6 featured projects" /></picture>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crazyro6/crazyro6/pacman-output/bomberman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crazyro6/crazyro6/pacman-output/bomberman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/crazyro6/crazyro6/pacman-output/bomberman-contribution-graph.svg">
-</picture>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=crazyr6&theme=neon&website=crazyro6.github.io%2Fcrazyro6%2F&x=crazyro6OSINT&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=crazyro6&theme=neon&website=roypara.com%2Fcrazyro6%2F" alt="crazyro6 social links" /></picture>
+  <picture><img src="https://www.gitskins.com/api/section/social?username=crazyro6&theme=neon&website=roypara.com&linkedin=linkedin.com/in/roy-para/" alt="crazyro6 social links" /></picture>
 </p>
 
 
